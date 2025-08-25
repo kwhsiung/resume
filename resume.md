@@ -1,0 +1,76 @@
+- Name
+    - Kai-Wen, Hsiung
+- About
+    - Front-end engineer specializing in intuitive, scalable user interfaces and data visualizations. Skilled in React.js, TypeScript, Vue.js, Nuxt.js, JavaScript, and D3.js. Experienced at translating user needs into robust features within cross-functional, bilingual (English/Mandarin) teams. Recognized for technical leadership, team mentoring, and consistently delivering impactful, user-centric products.
+- Contact
+    - LinkedIn
+        - https://www.linkedin.com/in/kwhsiung/
+    - GitHub
+        - https://github.com/kwhsiung
+    - Email
+        - kaiwenhsiung@gmail.com
+    - Mobile
+        - +886 912295326
+- Experience
+    - Carousell Group
+        - Title
+            - Senior Software Engineer
+        - Date
+            - Start
+                - Jun 2022
+            - End
+                - Now
+        - Location
+            - Taipei, Taipei City, Taiwan
+        - Location type
+            - Hybrid
+        - Description
+            - Owned List with AI – Image Flow web, making ~75% of all daily SG effective listings MML-enabled at ~2-min P50 listing time—20–30% faster than standard listings via AI-powered autofill by inferring seller's uploaded images. Delivered milestone on schedule and drove up AI adoption for faster seller onboarding.
+            - Led a 5+ team project to launch a unified checkout flow for Singapore and Malaysia, enabling 25% of listings for cart purchases and driving 45K+ daily buyers to add 2+ items. Achieved zero Sev-1 incidents post-launch and raised multi-item orders to 20%. Recognized as a 2024 Tech Toast Top Ambassador finalist for leadership and business impact.
+            - Mentored a web-engineering intern via weekly pairings and a structured onboarding plan, enabling 50+ production PRs in one term—boosting team velocity and earning multi-level recognition for multiplying team impact (“1 + 1 > 2”).
+            - Drove Carousell 2.0 Certified Program (Luxury, Sneakers, Mobiles) as core web engineer—authored end-to-end RFCs and UX refinements for 0-defect launches, laying the digital foundation that enabled Carousell to partner with 1P/3P merchants and expand beyond C2C into an e-commerce marketplace model. For Certified Mobiles, achieve an average 33% 14D STR and exceeding 50% 14D STR for top merchants.
+            - Led responsive web refactor for Buyer surfaces (LDP, SERP), migrated Enzyme→React 18 tests, enabled dark mode, and removed 8,000+ lines of legacy code—laying groundwork for SSR and improved maintainability.
+        - Skills
+            - React.js
+            - TypeScript
+    - Mirror Media Co., Ltd.
+        - Title
+            - Front-End Engineer
+        - Employment type
+            - Full-time
+        - Date
+            - Start
+                - April 2017
+            - End
+                - March 2022
+        - Location
+            - Taipei, Taipei City, Taiwan
+        - Location type
+            - Hybrid
+        - Description
+            - Key member of https://readr.tw—launched award-nominated data journalism projects in cross-functional teams (PM/design/reporters), earning multiple national/international recognitions for social impact and storytelling.
+            - Led end-to-end rebuild of https://mirrormedia.mg with Nuxt.js and SSR, improving Core Web Vitals and SEO for greater discoverability, and developed a premium paywall solution with custom authentication—enabling new digital revenue streams.
+            - Delivered audio platform https://www.mirrorvoice.com.tw/ as launch owner, expanding company reach to new content formats.
+        - Skills
+            - Vue.js
+            - Nuxt.js
+            - JavaScript
+            - D3.js
+- Education
+    - National Chengchi University
+        - Degree
+            - Master of Science - MS, Computer Science
+        - Date
+            - Start
+                - Sep 2013
+            - End
+                - Mar 2016
+- Notable Achievements
+    - Finalist, 2024 Tech Toast Top Ambassador at Carousell Group—recognized for outstanding ownership and cross-team leadership ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7298536953300324354/)).
+    - Winner, SOPA Awards 2021 for Excellence in Information Graphics (Chinese Group), for “5000 Fact-checking Reports Analysis: COVID-19 Disinformation War” ([project](https://www.readr.tw/project/covid19-disinformation-vis)), ([award page](https://2021.sopawards.com/the-sopa-awards/awards-finalists/)).
+    - Nominee, Excellent Journalism Awards 2021 (Feature Story), for “Chinese Slang Permeating Taiwan? Observing Youth Online Language Trends Through Dcard Data” ([project](https://www.readr.tw/post/2836)), ([award page](https://feja.org.tw/61200/)).
+    - Nominee, Excellent Journalism Award 2021 (Creative Storytelling) ([award page](https://www.feja.org.tw/61200)) and Sustainable And Constructive News Award ([award page](https://www.newsaward.org/Vote/vote_detail/2529)), for “The Path of Transitional Justice…” ([project](https://www.readr.tw/project/3/transitional-justice/index.html)); also recognized by [Taiwan Transitional Justice Commission](https://www.facebook.com/twtjc/posts/2555941724703447).
+    - Nominee, Data Journalism Awards 2019 (Best Breaking News), for “Key 43 minutes: Illustrated Conversation Record of Taiwan's 2018 Puyuma Train Incident” ([project](https://www.readr.tw/project/puyuma)), ([award page](https://datajournalismawards.org/), the only Taiwan-based finalist).
+    - Winner, SOPA Awards 2019 for Excellence in Feature Writing (Chinese Group), for “The Dilemma of the Second Generation” ([project](https://www.readr.tw/project/newtype)), ([award page](https://2019.sopawards.com/awards/awards-finalists/index.html)); nominee, Tsang Hsü-pai Journalism Awards 2018 ([award page](https://www.cna.com.tw/project/2018_news_eco_award/)).
+    - Winner, SOPA Awards 2018 for Excellence in Explanatory Reporting (Chinese Group), for “Going Home Together: What's the Dispute Over Indigenous Traditional Territories?” ([project](https://www.mirrormedia.mg/projects/20170801aboriginal/)), ([award page](https://2018.sopawards.com/awards/awards-finalists/index.html)).
+    - Led data visualizations and open data impact ([project](https://www.readr.tw/project/political-contribution/)), creating social impact recognition by pushing regulatory change regarding political contributions as part of the g0v movement.
