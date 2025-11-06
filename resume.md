@@ -19,7 +19,7 @@
             - Start
                 - Jun 2022
             - End
-                - Now
+                - Oct 2025
         - Location
             - Taipei, Taipei City, Taiwan
         - Location type
