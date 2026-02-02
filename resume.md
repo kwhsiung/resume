@@ -85,6 +85,23 @@
             - CSS Preprocessors - SASS/SCSS/Stylus
             - Google Analytics
             - Git
+- Skills
+    - Frontend Frameworks & Libraries
+        - React.js, React 18, Vue.js, Nuxt.js, Redux Toolkit, Redux-Saga, D3.js
+    - Languages
+        - TypeScript, JavaScript (ES6+)
+    - Testing
+        - Jest, React Testing Library, Enzyme
+    - Styling
+        - CSS Modules, SASS/SCSS/Stylus, Responsive Web Design (RWD)
+    - Web Performance & SEO
+        - Server-Side Rendering (SSR), Core Web Vitals, Lighthouse Optimization, SEO, A/B Testing
+    - APIs & Data
+        - Protobuf, REST API, Web Audio API, Canvas API
+    - Tools & Platforms
+        - Git, Google Analytics, Google Optimize, i18n
+    - Soft Skills
+        - Technical Leadership, Cross-Functional Collaboration, Project Management, Mentoring, RFC Writing, Code Review, Bilingual (English/Mandarin)
 - Education
     - National Chengchi University
         - Degree
