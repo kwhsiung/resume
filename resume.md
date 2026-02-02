@@ -1,5 +1,5 @@
 - Name
-    - Kai-Wen, Hsiung
+    - Kai-Wen Hsiung
 - Professional Summary
     - Senior Front-End Engineer with 8+ years building high-performance, scalable web applications using React.js, TypeScript, Vue.js, and modern JavaScript frameworks. Proven track record leading cross-functional teams and delivering measurable business impact: 20-30% faster user workflows, 45K+ daily active users, zero production incidents. Expert in responsive design, SSR optimization and A/B testing platforms. Recognized for technical leadership (Carousell 2024 Tech Toast Top Ambassador finalist) and award-winning data journalism collaborations. Skilled in bilingual (English/Mandarin) environments and mentoring engineering talent.
 - Contact
@@ -64,9 +64,9 @@
             - Full-time
         - Date
             - Start
-                - April 2017
+                - Apr 2017
             - End
-                - March 2022
+                - Mar 2022
         - Location
             - Taipei, Taipei City, Taiwan
         - Location type
@@ -97,7 +97,7 @@
     - Web Performance & SEO
         - Server-Side Rendering (SSR), Core Web Vitals, Lighthouse Optimization, SEO, A/B Testing
     - API Architectural Styles
-        - Restful API, Protobuf, GraphQL
+        - RESTful API, Protobuf, GraphQL
     - Tools & Platforms
         - Git, Google Analytics, Google Optimize, i18n
     - Soft Skills
