@@ -87,7 +87,7 @@
             - Git
 - Skills
     - Frontend Frameworks & Libraries
-        - React.js, React 18, Vue.js, Nuxt.js, Redux Toolkit, Redux-Saga, D3.js
+        - React.js, Vue.js(2.x), Nuxt.js(2.x), Redux Toolkit, Redux-Saga, D3.js
     - Languages
         - TypeScript, JavaScript (ES6+)
     - Testing
@@ -96,8 +96,8 @@
         - CSS Modules, SASS/SCSS/Stylus, Responsive Web Design (RWD)
     - Web Performance & SEO
         - Server-Side Rendering (SSR), Core Web Vitals, Lighthouse Optimization, SEO, A/B Testing
-    - APIs & Data
-        - Protobuf, REST API, Web Audio API, Canvas API
+    - API Architectural Styles
+        - Restful API, Protobuf, GraphQL
     - Tools & Platforms
         - Git, Google Analytics, Google Optimize, i18n
     - Soft Skills
@@ -111,6 +111,14 @@
                 - Sep 2013
             - End
                 - Mar 2016
+    - Taipei Municipal University of Education
+        - Degree
+            - Bachelor of Science - BS, Computer Science
+        - Date
+            - Start
+                - Sep 2009
+            - End
+                - Jun 2013
 - Notable Achievements
     - Finalist, 2024 Tech Toast Top Ambassador at Carousell Group - recognized for outstanding ownership and cross-team leadership ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7298536953300324354/)).
     - Winner, SOPA Awards 2021 for Excellence in Information Graphics (Chinese Group), as front-end engineer for “5000 Fact-checking Reports Analysis: COVID-19 Disinformation War” ([project](https://www.readr.tw/project/covid19-disinformation-vis)), ([award page](https://2021.sopawards.com/the-sopa-awards/awards-finalists/)).
