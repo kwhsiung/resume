@@ -1,7 +1,7 @@
 - Name
     - Kai-Wen, Hsiung
-- About
-    - Front-end engineer specializing in intuitive, scalable user interfaces and data visualizations. Skilled in React.js, TypeScript, Vue.js, Nuxt.js, JavaScript, and D3.js. Experienced at translating user needs into robust features within cross-functional, bilingual (English/Mandarin) teams. Recognized for technical leadership, team mentoring, and consistently delivering impactful, user-centric products.
+- Professional Summary
+    - Senior Front-End Engineer with 8+ years building high-performance, scalable web applications using React.js, TypeScript, Vue.js, and modern JavaScript frameworks. Proven track record leading cross-functional teams and delivering measurable business impact: 20-30% faster user workflows, 45K+ daily active users, zero production incidents. Expert in responsive design, SSR optimization and A/B testing platforms. Recognized for technical leadership (Carousell 2024 Tech Toast Top Ambassador finalist) and award-winning data journalism collaborations. Skilled in bilingual (English/Mandarin) environments and mentoring engineering talent.
 - Contact
     - LinkedIn
         - https://www.linkedin.com/in/kwhsiung/
@@ -17,7 +17,7 @@
             - Senior Software Engineer
         - Date
             - Start
-                - Jun 2022
+                - Apr 2025
             - End
                 - Oct 2025
         - Location
@@ -25,14 +25,38 @@
         - Location type
             - Hybrid
         - Description
-            - Owned List with AI – Image Flow web, making ~75% of all daily SG effective listings MML-enabled at ~2-min P50 listing time—20–30% faster than standard listings via AI-powered autofill by inferring seller's uploaded images. Delivered milestone on schedule and drove up AI adoption for faster seller onboarding.
-            - Led a 5+ team project to launch a unified checkout flow for Singapore and Malaysia, enabling 25% of listings for cart purchases and driving 45K+ daily buyers to add 2+ items. Achieved zero Sev-1 incidents post-launch and raised multi-item orders to 20%. Recognized as a 2024 Tech Toast Top Ambassador finalist for leadership and business impact.
-            - Mentored a web-engineering intern via weekly pairings and a structured onboarding plan, enabling 50+ production PRs in one term—boosting team velocity and earning multi-level recognition for multiplying team impact (“1 + 1 > 2”).
-            - Drove Carousell 2.0 Certified Program (Luxury, Sneakers, Mobiles) as core web engineer—authored end-to-end RFCs and UX refinements for 0-defect launches, laying the digital foundation that enabled Carousell to partner with 1P/3P merchants and expand beyond C2C into an e-commerce marketplace model. For Certified Mobiles, achieve an average 33% 14D STR and exceeding 50% 14D STR for top merchants.
-            - Led responsive web refactor for Buyer surfaces (LDP, SERP), migrated Enzyme→React 18 tests, enabled dark mode, and removed 8,000+ lines of legacy code—laying groundwork for SSR and improved maintainability.
+            - Owned List with AI – Image Flow web, integrating canvas-to-blob image processing with Carousell's server-driven UI architecture. Enabled ~75% of daily SG effective listings with MML at ~2-min P50 listing time - 20–30% faster than standard via AI-powered autofill. Delivered milestone on schedule, driving AI adoption for faster seller onboarding.
+            - Contributed to a projected US$72,100 yearly cost savings initiative by implementing educational components with various non-functional enhancements for a one-year chat message retention policy.
+            - Owned Category Browse pages SEO enhancements through cross-team collaborations and communications by correcting canonical URLs and patching missing features on mobile web. Led a detailed survey and RFC writing to introduce smooth, clear actions that contributed to the release of zero unexpected incidents on crucial buyer experience pages.
+            - Contributed to web platform technical non-functional migrations from adaptive web design to responsive web design for high-usage buyer experience components. Removed 8,000+ lines of legacy code by surveying component differences and consolidating duplicated branches through cross-team review, laying the groundwork for maintainability and developer experience.
+    - Carousell Group
+        - Title
+            - Software Engineer 2
+        - Date
+            - Start
+                - Jun 2022
+            - End
+                - Apr 2025
+        - Location
+            - Taipei, Taipei City, Taiwan
+        - Location type
+            - Hybrid
+        - Description
+            - Promoted to Senior Software Engineer after consistently exceeding expectations in performance reviews (2 of 3 cycles), recognized for technical ownership and leadership.
+            - Project lead of the Buyer Experience team in a 5-team big rock project to launch unified checkout flow for Singapore and Malaysia - driving cross-platform API contract RFCs and cross-functional coordination across product, tech, data, QA from proposal to release. Enabled 25% of listings for cart purchases with 45K+ daily multi-item buyers and zero Sev-1 incidents post-launch. Recognized as 2024 Tech Toast Top Ambassador finalist.
+            - Mentored a web-engineering intern via weekly pairings and a structured onboarding plan, enabling 50+ production PRs in one term - boosting team velocity and earning multi-level recognition for multiplying team impact ("1 + 1 > 2").
+            - Drove Carousell 2.0 Certified Program (Luxury, Sneakers, Mobiles) as core web engineer - authored cross-platform API contract RFCs and UX refinements for 0-defect launches, laying the digital foundation for Carousell's expansion into 1P/3P e-commerce. Certified Mobiles achieved 33% average 14D STR, exceeding 50% for top merchants.
+            - Contributed to web platform technical non-functional migrations, including adaptive web design to responsive web design for better maintainability and developer experience; Enzyme to React Test Library migration to enable upgrade to React 18; CSR to SSR migration for page components to improve initial load performance; proposed and drove RFC of common features migration from client to backend to enhance maintainability; checked and enhanced CSS color tokens to enable dark mode.
         - Skills
-            - React.js
             - TypeScript
+            - React.js
+            - Redux Toolkit/Redux-Saga
+            - Loadable Components
+            - Jest/React Testing Library
+            - CSS Modules
+            - i18n
+            - Protobuf
+            - Git
     - Mirror Media Co., Ltd.
         - Title
             - Front-End Engineer
@@ -48,14 +72,19 @@
         - Location type
             - Hybrid
         - Description
-            - Key member of https://readr.tw—launched award-nominated data journalism projects in cross-functional teams (PM/design/reporters), earning multiple national/international recognitions for social impact and storytelling.
-            - Led end-to-end rebuild of https://mirrormedia.mg with Nuxt.js and SSR, improving Core Web Vitals and SEO for greater discoverability, and developed a premium paywall solution with custom authentication—enabling new digital revenue streams.
-            - Delivered audio platform https://www.mirrorvoice.com.tw/ as launch owner, expanding company reach to new content formats.
+            - Key member of https://readr.tw from early career - launched award-nominated data journalism projects collaborating closely with PMs, designers, and reporters, earned multiple national/international recognitions for social impact and storytelling, establishing cross-functional partnership as a core engineering skill.
+            - Led an end-to-end rebuild of https://mirrormedia.mg with Nuxt.js and SSR, improving Core Web Vitals by reducing the average page load time by 77% and the Lighthouse score from 17 to 70. Enhanced SEO for greater discoverability by reducing the number of poorly scored webpages in Google Search Console, and developed a premium paywall solution with custom authentication, enabling new digital revenue streams.
+            - Delivered audio platform https://www.mirrorvoice.com.tw/ as launch owner, architecting a custom audio player with Web Audio API - a foundation still in production today. Expanded company reach to new content formats.
+            - Led Google Optimize integration, enabling PM self-service A/B testing and reducing engineering dependency.
         - Skills
-            - Vue.js
-            - Nuxt.js
-            - JavaScript
+            - JavaScript(ES6+)
+            - Vue.js(2.x)
+            - Nuxt.js(2.x)
+            - Express.js
             - D3.js
+            - CSS Preprocessors - SASS/SCSS/Stylus
+            - Google Analytics
+            - Git
 - Education
     - National Chengchi University
         - Degree
@@ -66,11 +95,11 @@
             - End
                 - Mar 2016
 - Notable Achievements
-    - Finalist, 2024 Tech Toast Top Ambassador at Carousell Group—recognized for outstanding ownership and cross-team leadership ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7298536953300324354/)).
-    - Winner, SOPA Awards 2021 for Excellence in Information Graphics (Chinese Group), for “5000 Fact-checking Reports Analysis: COVID-19 Disinformation War” ([project](https://www.readr.tw/project/covid19-disinformation-vis)), ([award page](https://2021.sopawards.com/the-sopa-awards/awards-finalists/)).
-    - Nominee, Excellent Journalism Awards 2021 (Feature Story), for “Chinese Slang Permeating Taiwan? Observing Youth Online Language Trends Through Dcard Data” ([project](https://www.readr.tw/post/2836)), ([award page](https://feja.org.tw/61200/)).
-    - Nominee, Excellent Journalism Award 2021 (Creative Storytelling) ([award page](https://www.feja.org.tw/61200)) and Sustainable And Constructive News Award ([award page](https://www.newsaward.org/Vote/vote_detail/2529)), for “The Path of Transitional Justice…” ([project](https://www.readr.tw/project/3/transitional-justice/index.html)); also recognized by [Taiwan Transitional Justice Commission](https://www.facebook.com/twtjc/posts/2555941724703447).
-    - Nominee, Data Journalism Awards 2019 (Best Breaking News), for “Key 43 minutes: Illustrated Conversation Record of Taiwan's 2018 Puyuma Train Incident” ([project](https://www.readr.tw/project/puyuma)), ([award page](https://datajournalismawards.org/), the only Taiwan-based finalist).
-    - Winner, SOPA Awards 2019 for Excellence in Feature Writing (Chinese Group), for “The Dilemma of the Second Generation” ([project](https://www.readr.tw/project/newtype)), ([award page](https://2019.sopawards.com/awards/awards-finalists/index.html)); nominee, Tsang Hsü-pai Journalism Awards 2018 ([award page](https://www.cna.com.tw/project/2018_news_eco_award/)).
-    - Winner, SOPA Awards 2018 for Excellence in Explanatory Reporting (Chinese Group), for “Going Home Together: What's the Dispute Over Indigenous Traditional Territories?” ([project](https://www.mirrormedia.mg/projects/20170801aboriginal/)), ([award page](https://2018.sopawards.com/awards/awards-finalists/index.html)).
-    - Led data visualizations and open data impact ([project](https://www.readr.tw/project/political-contribution/)), creating social impact recognition by pushing regulatory change regarding political contributions as part of the g0v movement.
+    - Finalist, 2024 Tech Toast Top Ambassador at Carousell Group - recognized for outstanding ownership and cross-team leadership ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7298536953300324354/)).
+    - Winner, SOPA Awards 2021 for Excellence in Information Graphics (Chinese Group), as front-end engineer for “5000 Fact-checking Reports Analysis: COVID-19 Disinformation War” ([project](https://www.readr.tw/project/covid19-disinformation-vis)), ([award page](https://2021.sopawards.com/the-sopa-awards/awards-finalists/)).
+    - Nominee, Excellent Journalism Awards 2021 (Feature Story), as front-end engineer for “Chinese Slang Permeating Taiwan? Observing Youth Online Language Trends Through Dcard Data” ([project](https://www.readr.tw/post/2836)), ([award page](https://feja.org.tw/61200/)).
+    - Nominee, Excellent Journalism Award 2021 (Creative Storytelling) ([award page](https://www.feja.org.tw/61200)) and Sustainable And Constructive News Award ([award page](https://www.newsaward.org/Vote/vote_detail/2529)), as front-end engineer for “The Path of Transitional Justice…” ([project](https://www.readr.tw/project/3/transitional-justice/index.html)); also recognized by [Taiwan Transitional Justice Commission](https://www.facebook.com/twtjc/posts/2555941724703447).
+    - Nominee, Data Journalism Awards 2019 (Best Breaking News), as front-end engineer for “Key 43 minutes: Illustrated Conversation Record of Taiwan's 2018 Puyuma Train Incident” ([project](https://www.readr.tw/project/puyuma)), ([award page](https://datajournalismawards.org/)), the only Taiwan-based finalist.
+    - Winner, SOPA Awards 2019 for Excellence in Feature Writing (Chinese Group), as front-end engineer for “The Dilemma of the Second Generation” ([project](https://www.readr.tw/project/newtype)), ([award page](https://2019.sopawards.com/awards/awards-finalists/index.html)); nominee, Tsang Hsü-pai Journalism Awards 2018 ([award page](https://www.cna.com.tw/project/2018_news_eco_award/)).
+    - Winner, SOPA Awards 2018 for Excellence in Explanatory Reporting (Chinese Group), as front-end engineer for “Going Home Together: What's the Dispute Over Indigenous Traditional Territories?” ([project](https://www.mirrormedia.mg/projects/20170801aboriginal/)), ([award page](https://2018.sopawards.com/awards/awards-finalists/index.html)).
+    - Led data visualizations and open data impact ([project](https://www.readr.tw/project/political-contribution/)) as front-end engineer, creating social impact recognition by pushing regulatory change regarding political contributions as part of the g0v movement.
