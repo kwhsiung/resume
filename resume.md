@@ -12,7 +12,7 @@
 - Experience
     - Carousell Group
         - Title
-            - Senior Software Engineer(Front-End)
+            - Senior Software Engineer (Front-End)
         - Date
             - Start
                 - Apr 2025
@@ -29,7 +29,7 @@
             - Contributed to web platform technical non-functional migrations from adaptive web design to responsive web design for high-usage buyer experience components. Removed 8,000+ lines of legacy code by surveying component differences and consolidating duplicated branches through cross-team review, laying the groundwork for maintainability and developer experience.
     - Carousell Group
         - Title
-            - Software Engineer 2(Front-End)
+            - Software Engineer 2 (Front-End)
         - Date
             - Start
                 - Jun 2022
